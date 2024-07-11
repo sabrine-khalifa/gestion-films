@@ -1,0 +1,27 @@
+/* src/components/MovieDetailPage.css */
+.movie-detail-page {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .movie-details {
+    display: inline-block;
+    text-align: left;
+    max-width: 500px;
+  }
+  
+  .movie-details img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .movie-details h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .movie-details p {
+    font-size: 1em;
+    margin: 10px 0;
+  }
+  
